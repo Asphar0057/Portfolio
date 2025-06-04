@@ -45,7 +45,6 @@ const App: React.FC = () => {
   const [activeSection, setActiveSection] = useState<SectionType>('graphics');
   const [selectedModal, setSelectedModal] = useState<GraphicItem | null>(null);
 
-  // Graphics data with titles and descriptions
   const graphicsData: GraphicItem[] = [
     {
       id: 1,
@@ -121,7 +120,6 @@ const App: React.FC = () => {
     }
   ];
 
-  // Coding projects data
   const codingProjects: Project[] = [
     {
       title: "NRVE NEST",
@@ -359,7 +357,7 @@ const App: React.FC = () => {
                 ))}
               </div>
               <div className="see-more-container">
-                <p className="see-more-text">This redirects you to a google drive folder :)</p>
+                <p className="see-more-text">This redirects you to a github link :)</p>
                 <a 
                   href="https://drive.google.com/drive/folders/your-coding-folder-id" 
                   target="_blank" 
