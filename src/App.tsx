@@ -50,80 +50,80 @@ const App: React.FC = () => {
       id: 1,
       src: graphic1,
       title: "Álvarez - Football Poster",
-      description: "A dynamic sports poster featuring Julian Álvarez with geometric design elements, vibrant color schemes, and modern typography. Created using advanced photo manipulation techniques and contemporary design principles."
+      description: "A dynamic sports poster featuring Julian Álvarez with geometric design elements, vibrant color schemes, and modern typography. Created using advanced photo manipulation techniques in Adobe Photoshop and layout design in Adobe Illustrator, showcasing mastery of contemporary design principles."
     },
     {
       id: 2,
       src: graphic2,
       title: "Aldi - Retro Portrait",
-      description: "A stylized portrait design with retro-futuristic elements, featuring neon pink color palettes and geometric patterns. This piece showcases mastery of digital art techniques and nostalgic design aesthetics."
+      description: "A stylized portrait design with retro-futuristic elements, featuring neon pink color palettes and geometric patterns. This piece showcases mastery of Adobe Photoshop's digital art techniques, advanced layer blending, and nostalgic design aesthetics inspired by 80s visual culture."
     },
     {
       id: 3,
       src: graphic3,
       title: "DAMN - Mixed Media Art",
-      description: "An experimental mixed media artwork combining photography, typography, and digital effects. Features complex layering techniques and urban aesthetic elements with a grunge-inspired color palette."
+      description: "An experimental mixed media artwork combining photography, typography, and digital effects. Features complex layering techniques using Adobe After Effects for motion elements and Adobe Photoshop for compositing, with urban aesthetic elements and a grunge-inspired color palette."
     },
     {
       id: 4,
       src: graphic4,
       title: "DAMN - Album Cover Design",
-      description: "A bold album cover design featuring minimalist typography and striking visual composition. Utilizes modern design principles with a focus on typography hierarchy and color theory."
+      description: "A bold album cover design featuring minimalist typography and striking visual composition. Utilizes modern design principles with a focus on typography hierarchy in Adobe Illustrator and color theory, demonstrating professional music industry design standards."
     },
     {
       id: 5,
       src: graphic5,
       title: "JOKER - Artistic Portrait",
-      description: "A creative portrait manipulation featuring vibrant color grading and artistic effects. Demonstrates advanced photo editing skills and creative interpretation of character design."
+      description: "A creative portrait manipulation featuring vibrant color grading and artistic effects. Demonstrates advanced photo editing skills in Adobe Photoshop including masking, color correction, creative interpretation of character design, and cinematic lighting techniques."
     },
     {
       id: 6,
       src: graphic6,
       title: "Mat Riley - Sports Design",
-      description: "A dynamic sports-themed design featuring bold typography and energetic composition. Created for athletic branding with focus on movement and power through visual elements."
+      description: "A dynamic sports-themed design featuring bold typography and energetic composition. Created for athletic branding with focus on movement and power through visual elements, utilizing Adobe Illustrator for vector graphics and Adobe Photoshop for photo integration."
     },
     {
       id: 7,
       src: graphic7,
       title: "Ray-Ban - Product Advertisement",
-      description: "A sleek product advertisement design for Ray-Ban eyewear featuring premium styling and professional layout. Emphasizes product photography and brand messaging integration."
+      description: "A sleek product advertisement design for Ray-Ban eyewear featuring premium styling and professional layout. Emphasizes product photography enhancement in Adobe Photoshop and brand messaging integration using Adobe InDesign layout principles."
     },
     {
       id: 8,
       src: graphic8,
       title: "Prince Pranav - Fantasy Art",
-      description: "An epic fantasy-themed artwork featuring dramatic lighting, mystical elements, and cinematic composition. Showcases digital painting techniques and imaginative storytelling through visuals."
+      description: "An epic fantasy-themed artwork featuring dramatic lighting, mystical elements, and cinematic composition. Showcases digital painting techniques in Adobe Photoshop, advanced compositing in Adobe After Effects, and imaginative storytelling through visuals."
     },
     {
       id: 9,
       src: graphic9,
       title: "Conceptual Art Piece",
-      description: "A thought-provoking conceptual artwork exploring themes of control and freedom through visual metaphors. Features surrealistic elements and symbolic imagery with masterful composition."
+      description: "A thought-provoking conceptual artwork exploring themes of control and freedom through visual metaphors. Features surrealistic elements created in Adobe Photoshop and symbolic imagery with masterful composition using Adobe Creative Suite workflows."
     },
     {
       id: 10,
       src: graphic10,
       title: "Casio - Watch Advertisement",
-      description: "A sophisticated product advertisement for Casio watches featuring clean design, professional typography, and premium brand positioning. Demonstrates commercial design expertise."
+      description: "A sophisticated product advertisement for Casio watches featuring clean design, professional typography, and premium brand positioning. Demonstrates commercial design expertise using Adobe InDesign for layout and Adobe Photoshop for product enhancement."
     },
     {
       id: 11,
       src: graphic11,
       title: "AKASH - Personal Branding",
-      description: "A personal branding design featuring industrial aesthetics and urban photography. Combines lifestyle photography with modern graphic design elements for authentic brand representation."
+      description: "A personal branding design featuring industrial aesthetics and urban photography. Combines lifestyle photography enhancement in Adobe Lightroom with modern graphic design elements in Adobe Illustrator for authentic brand representation."
     },
     {
       id: 12,
       src: graphic12,
       title: "Harry Potter - Fan Art",
-      description: "A magical fan art piece inspired by the Harry Potter universe, featuring mystical elements, atmospheric lighting, and creative interpretation of beloved characters and themes."
+      description: "A magical fan art piece inspired by the Harry Potter universe, featuring mystical elements, atmospheric lighting, and creative interpretation. Created using advanced digital painting techniques in Adobe Photoshop with magical effects enhanced in Adobe After Effects."
     }
   ];
 
   const codingProjects: Project[] = [
     {
       title: "NRVE NEST",
-      description: "A comprehensive mental health application designed to provide users with tools for mindfulness, therapy scheduling, mood tracking, and wellness resources. Features include guided meditation, journaling, and professional therapist connections.",
+      description: "A comprehensive mental health application designed to provide users with tools for mindfulness, therapy scheduling, mood tracking, and wellness resources. Features include guided meditation, journaling, and professional therapist connections with real-time chat functionality.",
       status: "completed",
       technologies: ["React Native", "Node.js", "MongoDB", "Express.js", "Socket.io", "Redux", "Firebase Authentication"],
       link: "#",
@@ -131,7 +131,7 @@ const App: React.FC = () => {
     },
     {
       title: "Personal Portfolio",
-      description: "A modern, responsive portfolio website showcasing graphic design work and development projects. Features interactive elements, smooth animations, and optimized performance across all devices.",
+      description: "A modern, responsive portfolio website showcasing graphic design work and development projects. Features interactive elements, smooth animations, and optimized performance across all devices with advanced CSS animations and TypeScript integration.",
       status: "completed",
       technologies: ["React.js", "TypeScript", "CSS3", "JavaScript", "Responsive Design", "Animation Libraries"],
       link: "#",
@@ -139,7 +139,7 @@ const App: React.FC = () => {
     },
     {
       title: "Weather App",
-      description: "A clean and intuitive weather application providing real-time weather data, forecasts, and location-based services. Features beautiful UI design with dynamic backgrounds based on weather conditions.",
+      description: "A clean and intuitive weather application providing real-time weather data, forecasts, and location-based services. Features beautiful UI design with dynamic backgrounds based on weather conditions and interactive data visualizations.",
       status: "completed",
       technologies: ["React.js", "OpenWeatherMap API", "Geolocation API", "CSS3", "Chart.js"],
       link: "#",
@@ -147,7 +147,7 @@ const App: React.FC = () => {
     },
     {
       title: "AI Study Focus Assistant",
-      description: "An intelligent study companion application that uses AI to optimize learning sessions, track focus patterns, and provide personalized study recommendations. Features pomodoro techniques and distraction blocking.",
+      description: "An intelligent study companion application that uses AI to optimize learning sessions, track focus patterns, and provide personalized study recommendations. Features pomodoro techniques, distraction blocking, and machine learning-based productivity insights.",
       status: "progress",
       technologies: ["Python", "TensorFlow", "React.js", "Machine Learning", "Natural Language Processing", "SQLite"],
       link: "#",
@@ -158,24 +158,24 @@ const App: React.FC = () => {
   // Video editing projects data
   const videoProjects: VideoProject[] = [
     {
-      title: "Brand Commercial",
-      description: "High-impact commercial videos for various brands featuring dynamic editing, color grading, and motion graphics.",
-      technologies: ["Adobe Premiere Pro", "After Effects", "DaVinci Resolve", "Motion Graphics"]
+      title: "Brand Commercial Production",
+      description: "High-impact commercial videos for various brands featuring dynamic editing, professional color grading in DaVinci Resolve, and motion graphics created in Adobe After Effects. Specialized in creating compelling narratives for product launches and brand storytelling.",
+      technologies: ["Adobe Premiere Pro", "After Effects", "DaVinci Resolve", "Motion Graphics", "Color Grading"]
     },
     {
       title: "Music Video Production",
-      description: "Creative music videos with synchronized editing, visual effects, and artistic storytelling elements.",
-      technologies: ["Premiere Pro", "After Effects", "Cinema 4D", "Color Correction"]
+      description: "Creative music videos with synchronized editing, visual effects, and artistic storytelling elements. Expertise in beat-matching, creative transitions, and visual effects that enhance the musical experience while maintaining artistic vision.",
+      technologies: ["Premiere Pro", "After Effects", "Cinema 4D", "Color Correction", "Audio Synchronization"]
     },
     {
-      title: "Social Media Content",
-      description: "Engaging short-form content optimized for various social media platforms with trending editing styles.",
-      technologies: ["Premiere Pro", "After Effects", "Photoshop", "Social Media Optimization"]
+      title: "Social Media Content Creation",
+      description: "Engaging short-form content optimized for various social media platforms with trending editing styles. Specialized in creating viral-worthy content with quick cuts, dynamic animations, and platform-specific optimization for maximum engagement.",
+      technologies: ["Premiere Pro", "After Effects", "Photoshop", "Social Media Optimization", "Motion Graphics"]
     },
     {
-      title: "Documentary Editing",
-      description: "Professional documentary post-production featuring interview cuts, B-roll integration, and narrative flow.",
-      technologies: ["Avid Media Composer", "Premiere Pro", "Audio Enhancement", "Narrative Structure"]
+      title: "Documentary Post-Production",
+      description: "Professional documentary editing featuring interview cuts, B-roll integration, and narrative flow construction. Expertise in storytelling through editing, audio enhancement, and creating compelling narratives from raw footage.",
+      technologies: ["Avid Media Composer", "Premiere Pro", "Audio Enhancement", "Narrative Structure", "Color Correction"]
     }
   ];
 
@@ -197,6 +197,12 @@ const App: React.FC = () => {
 
   return (
     <div className="App">
+      {/* Background Elements */}
+      <div className="background-particles"></div>
+      <div className="floating-element"></div>
+      <div className="floating-element"></div>
+      <div className="floating-element"></div>
+
       {/* Navbar */}
       <nav className="navbar">
         <div className="nav-links">
@@ -211,7 +217,7 @@ const App: React.FC = () => {
       <div className="page-border" id="home">
         <div className="main-content">
           <div className="left-side">
-            <h1 className="side-title left">CODER</h1>
+            <h1 className="side-title left">DEVELOPER</h1>
           </div>
 
           <div className="center-image-container">
@@ -221,7 +227,7 @@ const App: React.FC = () => {
           </div>
 
           <div className="right-side">
-            <h1 className="side-title right">GRAPHIC DESIGNER</h1>
+            <h1 className="side-title right">CREATIVE DESIGNER</h1>
           </div>
         </div>
       </div>
@@ -232,33 +238,36 @@ const App: React.FC = () => {
           <div className="about-text">
             <h2>About Me</h2>
             <p className="about-description">
-              I'm a passionate creative professional who bridges the gap between stunning visual design 
-              and robust technical implementation. With expertise in both graphic design and full-stack 
-              development, I bring a unique perspective to every project, ensuring that form meets function 
-              in perfect harmony.
+              I'm a Computer Science student at UT Dallas with a lifelong passion for creative design that began in my early years. 
+              From a young age, I was captivated by the power of visual storytelling and spent countless hours creating personal projects, 
+              crafting short films, and designing posters that brought my imagination to life.
             </p>
             <p className="about-description">
-              My journey combines the artistic vision of a designer with the analytical mindset of a developer, 
-              allowing me to create digital experiences that are not only visually compelling but also 
-              technically sound and user-friendly.
+              As my skills evolved, I began working with clients, helping them transform their visions into compelling visual narratives. 
+              My journey naturally expanded into web development as I discovered how to combine my creative expertise with technical 
+              prowess, creating digital experiences that seamlessly merge artistic vision with functional design.
+            </p>
+            <p className="about-description">
+              Today, I bridge the gap between stunning visual design and robust technical implementation, bringing a unique perspective 
+              to every project where form meets function in perfect harmony.
             </p>
             
             <div className="skills-grid">
               <div className="skill-category">
-                <h4>Design Skills</h4>
-                <p>UI/UX Design, Brand Identity, Typography, Color Theory, Adobe Creative Suite</p>
+                <h4>Adobe Creative Suite Mastery</h4>
+                <p>Adobe Photoshop, Illustrator, After Effects, Premiere Pro, InDesign, Lightroom - Advanced photo manipulation, vector graphics, motion graphics, video editing, layout design, and color correction</p>
               </div>
               <div className="skill-category">
                 <h4>Development Skills</h4>
-                <p>React.js, Node.js, JavaScript, HTML/CSS, Python, Database Management</p>
+                <p>React.js, Node.js, TypeScript, JavaScript, HTML/CSS, Python, MongoDB, Express.js, Database Management, API Integration</p>
               </div>
               <div className="skill-category">
-                <h4>Creative Process</h4>
-                <p>User Research, Wireframing, Prototyping, Design Systems, Responsive Design</p>
+                <h4>Creative Production Workflow</h4>
+                <p>Digital Asset Management, Brand Identity Systems, Print Production, Video Post-Production, Motion Graphics Animation, Creative Direction, Client Collaboration</p>
               </div>
               <div className="skill-category">
-                <h4>Technical Expertise</h4>
-                <p>Full-Stack Development, API Integration, Performance Optimization, Version Control</p>
+                <h4>Technical Implementation</h4>
+                <p>Full-Stack Development, Responsive Design, Performance Optimization, Version Control, UI/UX Design, Database Architecture, Cloud Services</p>
               </div>
             </div>
           </div>
@@ -266,15 +275,15 @@ const App: React.FC = () => {
           <div className="about-visual">
             <div className="stat-card">
               <span className="stat-number">50+</span>
-              <span className="stat-label">Projects Completed</span>
+              <span className="stat-label">Graphic Designs & Video Edits Completed</span>
+            </div>
+            <div className="stat-card">
+              <span className="stat-number">5+</span>
+              <span className="stat-label">Years in Adobe Creative Suite</span>
             </div>
             <div className="stat-card">
               <span className="stat-number">3+</span>
-              <span className="stat-label">Years Experience</span>
-            </div>
-            <div className="stat-card">
-              <span className="stat-number">100%</span>
-              <span className="stat-label">Client Satisfaction</span>
+              <span className="stat-label">Years in Web Development</span>
             </div>
           </div>
         </div>
@@ -322,14 +331,14 @@ const App: React.FC = () => {
                 ))}
               </div>
               <div className="see-more-container">
-                <p className="see-more-text">This redirects you to a google drive folder :)</p>
+                <p className="see-more-text">This redirects you to a google drive folder with more designs :)</p>
                 <a 
                   href="https://drive.google.com/drive/folders/your-graphics-folder-id" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="see-more-btn"
                 >
-                  See More
+                  See More Designs
                 </a>
               </div>
             </div>
@@ -357,14 +366,14 @@ const App: React.FC = () => {
                 ))}
               </div>
               <div className="see-more-container">
-                <p className="see-more-text">This redirects you to a github link :)</p>
+                <p className="see-more-text">This redirects you to my github profile :)</p>
                 <a 
-                  href="https://drive.google.com/drive/folders/your-coding-folder-id" 
+                  href="https://github.com/your-username" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="see-more-btn"
                 >
-                  See More
+                  View GitHub
                 </a>
               </div>
             </div>
@@ -392,14 +401,14 @@ const App: React.FC = () => {
                 ))}
               </div>
               <div className="see-more-container">
-                <p className="see-more-text">This redirects you to a google drive folder :)</p>
+                <p className="see-more-text">This redirects you to a google drive folder with video projects :)</p>
                 <a 
                   href="https://drive.google.com/drive/folders/your-video-folder-id" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="see-more-btn"
                 >
-                  See More
+                  See More Videos
                 </a>
               </div>
             </div>
@@ -411,8 +420,8 @@ const App: React.FC = () => {
       <div className="contact-section" id="contact">
         <h2>Let's Create Together</h2>
         <p>
-          Ready to bring your vision to life? Whether you need stunning visuals or robust development, 
-          I'm here to help transform your ideas into reality.
+          Ready to bring your vision to life? Whether you need stunning visuals, professional video content, 
+          or robust web development, I'm here to help transform your ideas into reality.
         </p>
         <div className="contact-info">
           <p>
