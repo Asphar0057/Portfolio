@@ -238,7 +238,7 @@ const App: React.FC = () => {
           <div className="about-text">
             <h2>About Me</h2>
             <p className="about-description">
-              I'm a Computer Science student at UT Dallas with a lifelong passion for creative design that began in my early years. 
+              My name is Parthav and I'm a Computer Science major at the University of Texas at Dallas who had a lifelong passion for creative design that began in my early years. 
               From a young age, I was captivated by the power of visual storytelling and spent countless hours creating personal projects, 
               crafting short films, and designing posters that brought my imagination to life.
             </p>
@@ -259,7 +259,7 @@ const App: React.FC = () => {
               </div>
               <div className="skill-category">
                 <h4>Development Skills</h4>
-                <p>React.js, Node.js, TypeScript, JavaScript, HTML/CSS, Python, MongoDB, Express.js, Database Management, API Integration</p>
+                <p>React.js, Node.js, TypeScript, JavaScript, HTML/CSS, Python, Java, C++, MongoDB, Express.js, Database Management, API Integration</p>
               </div>
               <div className="skill-category">
                 <h4>Creative Production Workflow</h4>
@@ -279,11 +279,11 @@ const App: React.FC = () => {
             </div>
             <div className="stat-card">
               <span className="stat-number">5+</span>
-              <span className="stat-label">Years in Adobe Creative Suite</span>
+              <span className="stat-label">Years of experience in Adobe Creative Suite</span>
             </div>
             <div className="stat-card">
               <span className="stat-number">3+</span>
-              <span className="stat-label">Years in Web Development</span>
+              <span className="stat-label">Years experience in Web Development</span>
             </div>
           </div>
         </div>
@@ -312,7 +312,7 @@ const App: React.FC = () => {
               className={`portfolio-nav-item ${activeSection === 'video' ? 'active' : ''}`}
               onClick={() => handleSectionChange('video')}
             >
-              Video Editing
+              Video Edits
             </div>
           </div>
 
@@ -403,7 +403,7 @@ const App: React.FC = () => {
               <div className="see-more-container">
                 <p className="see-more-text">This redirects you to a google drive folder with video projects :)</p>
                 <a 
-                  href="https://drive.google.com/drive/folders/your-video-folder-id" 
+                  href="https://drive.google.com/drive/folders/11ZCAO9Y0a03j2nnRvGV4YLLefOS2DSvn?usp=sharing" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="see-more-btn"
@@ -429,6 +429,9 @@ const App: React.FC = () => {
           </p>
           <p>
             Phone: <span className="contact-detail">214-940-4508</span>
+          </p>
+          <p>
+            <span className="contact-detail">Feel free to contact me to view more of my work which I have not not uploded to my drive.</span>
           </p>
         </div>
       </div>

@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
 }
 
 html {
@@ -15,6 +16,7 @@ body {
   color: #ffffff;
   overflow-x: hidden;
   line-height: 1.6;
+  
 }
 
 .App {
@@ -181,6 +183,7 @@ body {
   width: 100%;
   background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #1a2d1a 50%, #0d4013 100%);
   position: relative;
+
 }
 
 /* Side containers */
@@ -1017,6 +1020,7 @@ body {
   text-align: center;
   position: relative;
   overflow: hidden;
+  
 }
 
 .contact-section::before {
