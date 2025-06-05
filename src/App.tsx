@@ -333,7 +333,7 @@ const App: React.FC = () => {
               <div className="see-more-container">
                 <p className="see-more-text">This redirects you to a google drive folder with more designs :)</p>
                 <a 
-                  href="https://drive.google.com/drive/folders/your-graphics-folder-id" 
+                  href="https://drive.google.com/drive/folders/1q9_eaQ1_nyNBBqxcscll6QLWek2Ujxri?usp=sharing" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="see-more-btn"
